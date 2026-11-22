@@ -1,0 +1,285 @@
+{
+ "duration": 96.722,
+ "lines": [
+  {
+   "i": 0,
+   "who": "narrator",
+   "text": "It's nine fourteen on a Tuesday morning.",
+   "start": 0.45,
+   "end": 2.93
+  },
+  {
+   "i": 1,
+   "who": "narrator",
+   "text": "Every screen in the world goes gray.",
+   "start": 3.25,
+   "end": 5.293
+  },
+  {
+   "i": 2,
+   "who": "narrator",
+   "text": "Not the power. The internet.",
+   "start": 5.613,
+   "end": 7.797
+  },
+  {
+   "i": 3,
+   "who": "narrator",
+   "text": "About five hundred underwater cables. All quiet at once.",
+   "start": 8.117,
+   "end": 12.109
+  },
+  {
+   "i": 4,
+   "who": "beat",
+   "text": "",
+   "start": 12.429,
+   "end": 14.229
+  },
+  {
+   "i": 5,
+   "who": "narrator",
+   "text": "Here's day one. Here's what you do.",
+   "start": 14.229,
+   "end": 16.738
+  },
+  {
+   "i": 6,
+   "who": "narrator",
+   "text": "One.",
+   "start": 17.488,
+   "end": 18.057
+  },
+  {
+   "i": 7,
+   "who": "narrator",
+   "text": "Get cash while the machines still talk.",
+   "start": 18.557,
+   "end": 20.685
+  },
+  {
+   "i": 8,
+   "who": "narrator",
+   "text": "Cards are plastic promises. Cash is money you can hold.",
+   "start": 21.005,
+   "end": 24.836
+  },
+  {
+   "i": 9,
+   "who": "narrator",
+   "text": "The network dies. The wallet doesn't.",
+   "start": 25.156,
+   "end": 27.842
+  },
+  {
+   "i": 10,
+   "who": "narrator",
+   "text": "Two.",
+   "start": 28.592,
+   "end": 29.163
+  },
+  {
+   "i": 11,
+   "who": "narrator",
+   "text": "Save the city to your phone tonight.",
+   "start": 29.663,
+   "end": 31.46
+  },
+  {
+   "i": 12,
+   "who": "narrator",
+   "text": "When the towers go quiet, the map goes quiet with them.",
+   "start": 31.78,
+   "end": 35.168
+  },
+  {
+   "i": 13,
+   "who": "narrator",
+   "text": "Paper is the only map with no password.",
+   "start": 35.488,
+   "end": 38.095
+  },
+  {
+   "i": 14,
+   "who": "narrator",
+   "text": "Three.",
+   "start": 38.845,
+   "end": 39.485
+  },
+  {
+   "i": 15,
+   "who": "narrator",
+   "text": "The radio still works. It always has.",
+   "start": 39.985,
+   "end": 43.0
+  },
+  {
+   "i": 16,
+   "who": "narrator",
+   "text": "Batteries first. Weather radio if you can.",
+   "start": 43.32,
+   "end": 46.399
+  },
+  {
+   "i": 17,
+   "who": "narrator",
+   "text": "One-way news is still news.",
+   "start": 46.719,
+   "end": 48.491
+  },
+  {
+   "i": 18,
+   "who": "narrator",
+   "text": "Four.",
+   "start": 49.241,
+   "end": 49.893
+  },
+  {
+   "i": 19,
+   "who": "narrator",
+   "text": "Meet your neighbors today.",
+   "start": 50.393,
+   "end": 51.851
+  },
+  {
+   "i": 20,
+   "who": "narrator",
+   "text": "The apps were the only reason you knew them.",
+   "start": 52.171,
+   "end": 54.527
+  },
+  {
+   "i": 21,
+   "who": "narrator",
+   "text": "The people upstairs are the new supply line.",
+   "start": 54.847,
+   "end": 57.534
+  },
+  {
+   "i": 22,
+   "who": "narrator",
+   "text": "Five.",
+   "start": 58.284,
+   "end": 59.002
+  },
+  {
+   "i": 23,
+   "who": "narrator",
+   "text": "Write your numbers on real paper.",
+   "start": 59.502,
+   "end": 61.545
+  },
+  {
+   "i": 24,
+   "who": "narrator",
+   "text": "Every name you know lives in someone else's computer.",
+   "start": 61.865,
+   "end": 65.276
+  },
+  {
+   "i": 25,
+   "who": "narrator",
+   "text": "And their computer is off.",
+   "start": 65.596,
+   "end": 67.075
+  },
+  {
+   "i": 26,
+   "who": "beat",
+   "text": "",
+   "start": 67.395,
+   "end": 68.595
+  },
+  {
+   "i": 27,
+   "who": "narrator",
+   "text": "Day seven. The streets are quiet in a new way.",
+   "start": 68.595,
+   "end": 71.686
+  },
+  {
+   "i": 28,
+   "who": "narrator",
+   "text": "Money is whatever you can hold.",
+   "start": 72.006,
+   "end": 73.974
+  },
+  {
+   "i": 29,
+   "who": "narrator",
+   "text": "And the loudest thing left is a knock on a real door.",
+   "start": 74.294,
+   "end": 77.505
+  },
+  {
+   "i": 30,
+   "who": "beat",
+   "text": "",
+   "start": 77.825,
+   "end": 79.225
+  },
+  {
+   "i": 31,
+   "who": "narrator",
+   "text": "Day thirty. Four in the morning.",
+   "start": 79.225,
+   "end": 81.54
+  },
+  {
+   "i": 32,
+   "who": "narrator",
+   "text": "The router light blinks green.",
+   "start": 81.86,
+   "end": 83.494
+  },
+  {
+   "i": 33,
+   "who": "narrator",
+   "text": "Your phone buzzes the way it used to.",
+   "start": 83.814,
+   "end": 86.102
+  },
+  {
+   "i": 34,
+   "who": "narrator",
+   "text": "One message is waiting.",
+   "start": 86.422,
+   "end": 87.931
+  },
+  {
+   "i": 35,
+   "who": "beat",
+   "text": "",
+   "start": 88.251,
+   "end": 89.151
+  },
+  {
+   "i": 36,
+   "who": "narrator",
+   "text": "It knows your name.",
+   "start": 89.151,
+   "end": 90.319
+  },
+  {
+   "i": 37,
+   "who": "narrator",
+   "text": "It knows you were ready.",
+   "start": 90.639,
+   "end": 92.058
+  },
+  {
+   "i": 38,
+   "who": "beat",
+   "text": "",
+   "start": 92.378,
+   "end": 93.478
+  },
+  {
+   "i": 39,
+   "who": "narrator",
+   "text": "Who sent the message?",
+   "start": 93.478,
+   "end": 94.802
+  }
+ ]
+}
