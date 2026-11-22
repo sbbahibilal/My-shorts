@@ -145,11 +145,15 @@ export function phone(V, o = {}) {
       const n = clamp(o.notif || 0);
       if (n > 0) {
         c.save(); c.translate(0, (1 - eo(n)) * 40); c.globalAlpha = g * eo(n);
-        c.fillStyle = 'rgba(236,240,250,0.95)'; rr(c, x - 158, y - 80, 316, 200, 28); c.fill();
-        c.fillStyle = '#c8372d'; rr(c, x - 138, y - 60, 44, 44, 12); c.fill(); c.fillStyle = '#fff'; c.font = '800 22px Nunito'; c.fillText((o.from || '4B').split(' ')[0].slice(0, 3), x - (o.from ? 100 : 116), y - 30);
-        c.fillStyle = '#1b2234'; c.font = '800 28px Nunito'; c.fillText(o.from || 'Neighbor · 4B', x - 82, y - 30);
-        const txt = MSG.slice(0, o.typed ?? MSG.length); c.font = '700 30px Nunito'; c.fillStyle = '#20263a';
-        const wds = txt.split(' '); let line = '', ly = y + 20; for (const w of wds) { const tl = line ? line + ' ' + w : w; if (c.measureText(tl).width > 270) { c.fillText(line, x - 138, ly); line = w; ly += 40; } else line = tl; } c.fillText(line, x - 138, ly);
+        const wrap = (s, maxW) => { const out = []; let ln = ''; for (const w of s.split(' ')) { const tl = ln ? ln + ' ' + w : w; if (c.measureText(tl).width > maxW && ln) { out.push(ln); ln = w; } else ln = tl; } if (ln) out.push(ln); return out; };
+        c.font = '700 28px Nunito';
+        const fullLines = wrap(MSG, 268);
+        const bH = Math.max(200, (fullLines.length - 1) * 36 + 128);
+        c.fillStyle = 'rgba(236,240,250,0.95)'; rr(c, x - 158, y - 80, 316, bH, 28); c.fill();
+        c.fillStyle = '#c8372d'; rr(c, x - 138, y - 60, 44, 44, 12); c.fill(); c.fillStyle = '#fff'; c.font = '800 22px Nunito'; c.textAlign = 'center'; c.fillText((o.from || '4B').split(' ')[0].slice(0, 3), x - 116, y - 30);
+        c.fillStyle = '#1b2234'; c.font = '800 26px Nunito'; c.textAlign = 'left'; c.fillText(o.from || 'Neighbor · 4B', x - 82, y - 30);
+        const txt = MSG.slice(0, o.typed ?? MSG.length); c.fillStyle = '#20263a';
+        let line = '', ly = y - 10; for (const w of wrap(txt, 268)) { c.fillText(w, x - 138, ly); ly += 36; }
         c.restore();
       }
       c.globalAlpha = 1;

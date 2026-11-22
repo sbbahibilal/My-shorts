@@ -17,12 +17,14 @@ A 5-step Day 1 plan (CASH → MAPS → RADIO → PEOPLE → PAPER), a quiet day 
 
 | File | Format | Size |
 |---|---|---|
-| `internet-off-30/videos/internet-off-30_16x9_share.mp4` | 1920×1080 | 32.9 MB |
-| `internet-off-30/videos/internet-off-30_9x16_share.mp4` | 1080×1920 | 33.0 MB |
+| `internet-off-30/videos/internet-off-30_16x9_full.mp4` | 1920×1080, near-master quality | 91 MB |
+| `internet-off-30/videos/internet-off-30_9x16_full.mp4` | 1080×1920, near-master quality | 91 MB |
+| `internet-off-30/videos/internet-off-30_16x9_share.mp4` | 1920×1080, lightweight | 32.9 MB |
+| `internet-off-30/videos/internet-off-30_9x16_share.mp4` | 1080×1920, lightweight | 33.0 MB |
 | `internet-off-30/covers/internet-off-30_cover_16x9.jpg` | title thumbnail (16:9) | — |
 | `internet-off-30/covers/internet-off-30_cover_9x16.jpg` | title thumbnail (9:16) | — |
 
-Full-quality masters (1920×1080 / 1080×1920, AAC 320k, ~500 MB each) exceed GitHub's git file limit and are kept out of this repo — rebuild them from source (below) for identical output.
+The gallery-quality masters (AAC 320k, ~500 MB each) exceed GitHub's 100 MB-per-file git limit, and splitting a 1:38 film into six playable parts would break playback — so the repo carries the same film re-encoded at 7.3 Mbps (`*_full.mp4`), visually indistinguishable at 1080p and under the limit. The untouched masters rebuild from source (below).
 
 ### Post kit
 
