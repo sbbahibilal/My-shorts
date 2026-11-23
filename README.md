@@ -50,6 +50,13 @@ Day 31, four p.m. The water tower on Fourth has become a rumor. Chalk arrows, bu
 - **Runtime:** 92.2 s (1:32) · Stickman, 24 fps
 - **Deliverables:** `internet-off-30-p3/videos/` — `_16x9_full` (87.8 MB), `_9x16_full` (87.7 MB), `_16x9_share` (31.7 MB), `_9x16_share` (31.6 MB) + covers, source, script, timings
 
+## Part 4: DAY ONE, RETOLD (Part 4 of 8)
+
+9:14 on a Tuesday — every screen goes gray. Not the power, the internet. The 5-step day-one plan gets its full telling: cash while machines still talk, save the map, batteries for the radio, meet the neighbors, numbers on paper. Day seven, a new kind of quiet. Then day thirty, four in the morning: the router blinks green, one message waits — *it knows your name.* End card: REPLY OR STAY OFFLINE?
+
+- **Runtime:** 1:36 · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p4/videos/` — `_16x9_full` (87.5 MB), `_9x16_full` (87.5 MB), share encodes + covers, source, script, timings
+
 ## Project structure (`internet-off-30/`)
 
 ```
