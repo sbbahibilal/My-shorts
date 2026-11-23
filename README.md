@@ -71,6 +71,13 @@ Day thirty, midnight. Three of us walk to the substation because the gate is alr
 - **Runtime:** 180.7 s (3:01) · 47 shots · Stickman, 24 fps · includes Glitch / Ansel / Rewa / Halloran voice lines
 - **Deliverables:** `internet-off-30-p6/videos/` — `_16x9_full` (93.5 MB), `_9x16_full` (93.4 MB), share encodes + covers, source, script, timings
 
+## Part 7: THE TEST (Part 7 of 8)
+
+The axe comes down — not on the cabinet. Rules accepted, one correction: *homes are easy, hearts are harder.* The blue bottle gets fixed in good faith, the price is a home (the router, plant stand and all), and the stairwell votes 4–1. Day thirty-one, eleven o'clock: one hour of internet, the whole city watching the counter — until six OUTSIDE devices knock on the gate and the router light turns red.
+
+- **Runtime:** 223.9 s (3:44) · 50 shots · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p7/videos/` — `_16x9_full` (95.1 MB), `_9x16_full` (94.7 MB), share encodes + covers, source, script, timings
+
 ## Project structure (`internet-off-30/`)
 
 ```
