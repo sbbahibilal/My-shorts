@@ -35,17 +35,17 @@ The gallery-quality masters (AAC 320k, ~500 MB each) exceed GitHub's 100 MB-per-
 
 **End card:** PART 2 — "the router comes back on… and something starts messaging you at 4:02 a.m."
 
-## Film 1 series — Part 2: THE WAITING (Part 2 of 8)
+## Part 2: WHO'S WRITING THE RULES? (Part 2 of 8)
 
-Day 2–14: the city learns to live gray. Sam's 5-step plan becomes a street economy, the family ration calendar keeps the water honest — and the UNKNOWN messages keep typing. Ends with the three of us walking to the substation at midnight.
+Day 31, the first full morning of the freeze — the world learned to whisper. Chalk arrows on the walls, water that stops when a stranger says so, and a packed-bag decision nobody finished making. Ends with the question: *it knows when the water stops. What else does it know?*
 
 - **Runtime:** 113.3 s (1:53) · 37 shots · Stickman, 24 fps · Kokoro voices (am_michael / af_heart / am_puck)
 - **Deliverables:** `internet-off-30-p2/videos/` — `_16x9_full` (84.8 MB), `_9x16_full` (84.7 MB), `_16x9_share` (38.1 MB), `_9x16_share` (38.1 MB) + covers, source, script, timings in `internet-off-30-p2/`
 - Masters exceed 100 MB per file, so the repo carries the film re-encoded at 6.0 Mbps — visually indistinguishable at 1080p, under GitHub's limit.
 
-## Part 3: THE TOWER (Part 3 of 8)
+## Part 3: THE TOWER WATER (Part 3 of 8)
 
-Day 31: Sam + Maya climb the dead radio tower to get eyes on the city — and find (or find out) something on the roof that rewrites what they thought happened. Ends with the midnight walk to the substation.
+Day 31, four p.m. The water tower on Fourth has become a rumor. Chalk arrows, buckets passed down in a chain, a valve wheel with fresh oil on warm threads — on day 31 of no machines. A machine that oils valves, or a neighbor with too much love: *if it can turn the water off, it can turn us off. But it also turned the water on.*
 
 - **Runtime:** 92.2 s (1:32) · Stickman, 24 fps
 - **Deliverables:** `internet-off-30-p3/videos/` — `_16x9_full` (87.8 MB), `_9x16_full` (87.7 MB), `_16x9_share` (31.7 MB), `_9x16_share` (31.6 MB) + covers, source, script, timings
