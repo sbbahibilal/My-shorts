@@ -43,6 +43,13 @@ Day 2–14: the city learns to live gray. Sam's 5-step plan becomes a street eco
 - **Deliverables:** `internet-off-30-p2/videos/` — `_16x9_full` (84.8 MB), `_9x16_full` (84.7 MB), `_16x9_share` (38.1 MB), `_9x16_share` (38.1 MB) + covers, source, script, timings in `internet-off-30-p2/`
 - Masters exceed 100 MB per file, so the repo carries the film re-encoded at 6.0 Mbps — visually indistinguishable at 1080p, under GitHub's limit.
 
+## Part 3: THE TOWER (Part 3 of 8)
+
+Day 31: Sam + Maya climb the dead radio tower to get eyes on the city — and find (or find out) something on the roof that rewrites what they thought happened. Ends with the midnight walk to the substation.
+
+- **Runtime:** 92.2 s (1:32) · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p3/videos/` — `_16x9_full` (87.8 MB), `_9x16_full` (87.7 MB), `_16x9_share` (31.7 MB), `_9x16_share` (31.6 MB) + covers, source, script, timings
+
 ## Project structure (`internet-off-30/`)
 
 ```
