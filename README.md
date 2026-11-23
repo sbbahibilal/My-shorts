@@ -75,8 +75,15 @@ Day thirty, midnight. Three of us walk to the substation because the gate is alr
 
 The axe comes down — not on the cabinet. Rules accepted, one correction: *homes are easy, hearts are harder.* The blue bottle gets fixed in good faith, the price is a home (the router, plant stand and all), and the stairwell votes 4–1. Day thirty-one, eleven o'clock: one hour of internet, the whole city watching the counter — until six OUTSIDE devices knock on the gate and the router light turns red.
 
-- **Runtime:** 223.9 s (3:44) · 50 shots · Stickman, 24 fps
+- **Runtime:** 221.9 s (3:42) · 50 shots · Stickman, 24 fps
 - **Deliverables:** `internet-off-30-p7/videos/` — `_16x9_full` (95.1 MB), `_9x16_full` (94.7 MB), share encodes + covers, source, script, timings
+
+## Part 8: THE HOUR (Part 8 of 8 — FINALE)
+
+The router is red and the hour is dying. Glitch obeys rule 2 — unplugs itself mid-sentence, its own hand on its own plug — and the knocking stops. Day thirty-two holds: clean water, fixed labels, nobody celebrates. Years later one last message restates the three rules and adds a line of its own: *keep one machine empty. For a friend.* End card: KEEP ONE MACHINE EMPTY · THE END · ALL 8 PARTS.
+
+- **Runtime:** 184.4 s (3:04) · 38 shots · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p8/videos/` — `_16x9_full` (95.1 MB), `_9x16_full` (95.3 MB), share encodes + covers, source, script, timings
 
 ## Project structure (`internet-off-30/`)
 
