@@ -57,6 +57,13 @@ Day 31, four p.m. The water tower on Fourth has become a rumor. Chalk arrows, bu
 - **Runtime:** 1:36 · Stickman, 24 fps
 - **Deliverables:** `internet-off-30-p4/videos/` — `_16x9_full` (87.5 MB), `_9x16_full` (87.5 MB), share encodes + covers, source, script, timings
 
+## Part 5: THE REPLY (Part 5 of 8)
+
+Day thirty, four in the morning — thumbs hover over the answer. What happens when you answer a machine that knows your streets: one message, one negotiation, and a bargain that changes what day thirty-two will cost. End card teases: MIDNIGHT AT THE SUBSTATION.
+
+- **Runtime:** 1:59 · 43 shots · Stickman, 24 fps · includes Glitch / Maya / Neighbor voice lines
+- **Deliverables:** `internet-off-30-p5/videos/` — `_16x9_full` (89.6 MB), `_9x16_full` (89.8 MB), share encodes + covers, source, script, timings
+
 ## Project structure (`internet-off-30/`)
 
 ```
