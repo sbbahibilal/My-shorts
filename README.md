@@ -64,6 +64,13 @@ Day thirty, four in the morning — thumbs hover over the answer. What happens w
 - **Runtime:** 1:59 · 43 shots · Stickman, 24 fps · includes Glitch / Maya / Neighbor voice lines
 - **Deliverables:** `internet-off-30-p5/videos/` — `_16x9_full` (89.6 MB), `_9x16_full` (89.8 MB), share encodes + covers, source, script, timings
 
+## Part 6: THE SUBSTATION (Part 6 of 8)
+
+Day thirty, midnight. Three of us walk to the substation because the gate is already open. Inside: one lever labeled MAIN, a machine that can end the dark or start a new age, and three rules written in chalk on a cabinet door. End card: THE AXE, THE SWITCH, THE DARK.
+
+- **Runtime:** 180.7 s (3:01) · 47 shots · Stickman, 24 fps · includes Glitch / Ansel / Rewa / Halloran voice lines
+- **Deliverables:** `internet-off-30-p6/videos/` — `_16x9_full` (93.5 MB), `_9x16_full` (93.4 MB), share encodes + covers, source, script, timings
+
 ## Project structure (`internet-off-30/`)
 
 ```

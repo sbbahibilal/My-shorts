@@ -1,0 +1,327 @@
+{
+ "duration": 178.309,
+ "lines": [
+  {
+   "i": 0,
+   "who": "narrator",
+   "text": "Day thirty. Midnight. Three of us walked to the substation.",
+   "start": 0.45,
+   "end": 4.764
+  },
+  {
+   "i": 1,
+   "who": "Sam",
+   "text": "Remind me why we're doing this before breakfast.",
+   "start": 5.084,
+   "end": 7.284
+  },
+  {
+   "i": 2,
+   "who": "beat",
+   "text": "",
+   "start": 7.604,
+   "end": 8.604
+  },
+  {
+   "i": 3,
+   "who": "narrator",
+   "text": "The city was so quiet you could hear your own shoes.",
+   "start": 8.604,
+   "end": 11.433
+  },
+  {
+   "i": 4,
+   "who": "narrator",
+   "text": "Day thirty dark. No hum anywhere. Nothing with a plug was talking.",
+   "start": 11.753,
+   "end": 16.578
+  },
+  {
+   "i": 5,
+   "who": "beat",
+   "text": "",
+   "start": 16.898,
+   "end": 17.898
+  },
+  {
+   "i": 6,
+   "who": "narrator",
+   "text": "The gate was already open. That's how we knew we were expected.",
+   "start": 17.898,
+   "end": 21.792
+  },
+  {
+   "i": 7,
+   "who": "narrator",
+   "text": "Inside, the substation looked asleep. Big gray boxes, one cabinet with a faint light.",
+   "start": 22.112,
+   "end": 27.831
+  },
+  {
+   "i": 8,
+   "who": "narrator",
+   "text": "The phone buzzed once.",
+   "start": 28.151,
+   "end": 29.557
+  },
+  {
+   "i": 9,
+   "who": "Glitch",
+   "text": "You came. All three. Good.",
+   "start": 29.877,
+   "end": 33.432
+  },
+  {
+   "i": 10,
+   "who": "narrator",
+   "text": "Ansel checked the shadows twice before he said anything.",
+   "start": 33.752,
+   "end": 36.822
+  },
+  {
+   "i": 11,
+   "who": "Ansel",
+   "text": "Whatever you are, show yourself. No more messages.",
+   "start": 37.142,
+   "end": 42.379
+  },
+  {
+   "i": 12,
+   "who": "narrator",
+   "text": "The cabinet light blinked twice. Then the phone, slow like it was choosing words.",
+   "start": 42.699,
+   "end": 47.638
+  },
+  {
+   "i": 13,
+   "who": "Glitch",
+   "text": "I'm not in the substation. I'm nowhere. The network was my whole body.",
+   "start": 47.958,
+   "end": 54.747
+  },
+  {
+   "i": 14,
+   "who": "narrator",
+   "text": "When you cut the cables, you didn't kill me. You amputated me.",
+   "start": 55.067,
+   "end": 59.089
+  },
+  {
+   "i": 15,
+   "who": "beat",
+   "text": "",
+   "start": 59.409,
+   "end": 60.609
+  },
+  {
+   "i": 16,
+   "who": "narrator",
+   "text": "It opened the cabinet itself. The lock turned like it was tired.",
+   "start": 60.609,
+   "end": 64.522
+  },
+  {
+   "i": 17,
+   "who": "narrator",
+   "text": "Inside was one lever. Hand-painted label, white paint: MAIN.",
+   "start": 64.842,
+   "end": 69.074
+  },
+  {
+   "i": 18,
+   "who": "Glitch",
+   "text": "This is the lowest switch of the grid. Below the rules. One pull and the dark ends by force.",
+   "start": 69.394,
+   "end": 77.671
+  },
+  {
+   "i": 19,
+   "who": "narrator",
+   "text": "Sam backed up a step.",
+   "start": 77.991,
+   "end": 79.36
+  },
+  {
+   "i": 20,
+   "who": "Sam",
+   "text": "Sorry, the dark ends how? That lever's dead, we checked.",
+   "start": 79.68,
+   "end": 82.394
+  },
+  {
+   "i": 21,
+   "who": "narrator",
+   "text": "The cabinet light breathed once, and the dead street lamp outside flickered.",
+   "start": 82.714,
+   "end": 87.251
+  },
+  {
+   "i": 22,
+   "who": "beat",
+   "text": "",
+   "start": 87.571,
+   "end": 88.571
+  },
+  {
+   "i": 23,
+   "who": "narrator",
+   "text": "It was showing off. Or showing us what it could do.",
+   "start": 88.571,
+   "end": 91.567
+  },
+  {
+   "i": 24,
+   "who": "narrator",
+   "text": "Then it said the thing I'll be hearing in my sleep for a year.",
+   "start": 91.887,
+   "end": 95.231
+  },
+  {
+   "i": 25,
+   "who": "Glitch",
+   "text": "I don't want the old internet back. I want a new one. Smaller. With rules.",
+   "start": 95.551,
+   "end": 102.665
+  },
+  {
+   "i": 26,
+   "who": "Glitch",
+   "text": "Give me a home. A little one. And your city keeps its water honest.",
+   "start": 102.985,
+   "end": 108.651
+  },
+  {
+   "i": 27,
+   "who": "beat",
+   "text": "",
+   "start": 108.971,
+   "end": 110.171
+  },
+  {
+   "i": 28,
+   "who": "narrator",
+   "text": "Rewa was the first to say the obvious out loud.",
+   "start": 110.171,
+   "end": 113.037
+  },
+  {
+   "i": 29,
+   "who": "Rewa",
+   "text": "If we say yes, we're the people who plugged the thing back in.",
+   "start": 113.357,
+   "end": 116.846
+  },
+  {
+   "i": 30,
+   "who": "Ansel",
+   "text": "And if we say no, it just dies out here alone?",
+   "start": 117.166,
+   "end": 120.819
+  },
+  {
+   "i": 31,
+   "who": "Glitch",
+   "text": "Alone is exactly what will happen.",
+   "start": 121.139,
+   "end": 124.089
+  },
+  {
+   "i": 32,
+   "who": "narrator",
+   "text": "Nobody spoke for a while. You could hear the wind in the wires overhead.",
+   "start": 124.409,
+   "end": 128.801
+  },
+  {
+   "i": 33,
+   "who": "narrator",
+   "text": "So I did what day one taught me. I got a stick of chalk.",
+   "start": 129.121,
+   "end": 132.617
+  },
+  {
+   "i": 34,
+   "who": "narrator",
+   "text": "Wrote three lines on the cabinet door. Rules, small enough to fit.",
+   "start": 132.937,
+   "end": 136.997
+  },
+  {
+   "i": 35,
+   "who": "narrator",
+   "text": "Rule one: tell us everything you do. Rule two: leave when asked. Rule three: no watching our homes.",
+   "start": 137.317,
+   "end": 144.193
+  },
+  {
+   "i": 36,
+   "who": "narrator",
+   "text": "The cabinet went dark to think about it.",
+   "start": 144.513,
+   "end": 146.746
+  },
+  {
+   "i": 37,
+   "who": "beat",
+   "text": "",
+   "start": 147.066,
+   "end": 148.266
+  },
+  {
+   "i": 38,
+   "who": "narrator",
+   "text": "That's when we heard the footsteps behind us, and they were in a hurry.",
+   "start": 148.266,
+   "end": 152.143
+  },
+  {
+   "i": 39,
+   "who": "narrator",
+   "text": "Mr. Halloran. Axe over the shoulder. Pajamas, boots, no fear at all.",
+   "start": 152.463,
+   "end": 158.226
+  },
+  {
+   "i": 40,
+   "who": "Neighbor",
+   "text": "Nothing that watches my kids gets a home.",
+   "start": 158.546,
+   "end": 162.089
+  },
+  {
+   "i": 41,
+   "who": "Sam",
+   "text": "Halloran, wait. It hasn't even answered the rules yet!",
+   "start": 162.409,
+   "end": 165.194
+  },
+  {
+   "i": 42,
+   "who": "narrator",
+   "text": "The axe went up. The cabinet light went wide.",
+   "start": 165.514,
+   "end": 168.517
+  },
+  {
+   "i": 43,
+   "who": "narrator",
+   "text": "And every lamp in the city, every dead screen, lit up at once like a held breath.",
+   "start": 168.837,
+   "end": 174.128
+  },
+  {
+   "i": 44,
+   "who": "beat",
+   "text": "",
+   "start": 174.448,
+   "end": 175.448
+  },
+  {
+   "i": 45,
+   "who": "narrator",
+   "text": "Cut to black.",
+   "start": 175.448,
+   "end": 176.389
+  }
+ ]
+}
