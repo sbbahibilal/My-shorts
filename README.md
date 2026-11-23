@@ -35,6 +35,14 @@ The gallery-quality masters (AAC 320k, ~500 MB each) exceed GitHub's 100 MB-per-
 
 **End card:** PART 2 — "the router comes back on… and something starts messaging you at 4:02 a.m."
 
+## Film 1 series — Part 2: THE WAITING (Part 2 of 8)
+
+Day 2–14: the city learns to live gray. Sam's 5-step plan becomes a street economy, the family ration calendar keeps the water honest — and the UNKNOWN messages keep typing. Ends with the three of us walking to the substation at midnight.
+
+- **Runtime:** 113.3 s (1:53) · 37 shots · Stickman, 24 fps · Kokoro voices (am_michael / af_heart / am_puck)
+- **Deliverables:** `internet-off-30-p2/videos/` — `_16x9_full` (84.8 MB), `_9x16_full` (84.7 MB), `_16x9_share` (38.1 MB), `_9x16_share` (38.1 MB) + covers, source, script, timings in `internet-off-30-p2/`
+- Masters exceed 100 MB per file, so the repo carries the film re-encoded at 6.0 Mbps — visually indistinguishable at 1080p, under GitHub's limit.
+
 ## Project structure (`internet-off-30/`)
 
 ```
