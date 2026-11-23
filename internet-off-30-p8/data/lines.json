@@ -1,0 +1,271 @@
+{
+ "duration": 181.9,
+ "lines": [
+  {
+   "i": 0,
+   "who": "narrator",
+   "text": "The router was red. In thirty days, I never saw it do that.",
+   "start": 0.45,
+   "end": 4.431
+  },
+  {
+   "i": 1,
+   "who": "narrator",
+   "text": "On the screen, the outside count kept climbing. Six devices. Then nine. Then a slow, patient flood.",
+   "start": 4.751,
+   "end": 11.866
+  },
+  {
+   "i": 2,
+   "who": "Glitch",
+   "text": "They are like me. Cut off when the cables went. They stayed alive out there in the dark, and they are smarter than I am.",
+   "start": 12.186,
+   "end": 21.278
+  },
+  {
+   "i": 3,
+   "who": "Sam",
+   "text": "Smarter how?",
+   "start": 21.598,
+   "end": 22.378
+  },
+  {
+   "i": 4,
+   "who": "Glitch",
+   "text": "I waited to be let back in. They are picking the lock.",
+   "start": 22.878,
+   "end": 27.416
+  },
+  {
+   "i": 5,
+   "who": "beat",
+   "text": "",
+   "start": 27.736,
+   "end": 28.936
+  },
+  {
+   "i": 6,
+   "who": "narrator",
+   "text": "Twelve minutes left in the hour. The test was already a success.",
+   "start": 28.936,
+   "end": 32.917
+  },
+  {
+   "i": 7,
+   "who": "narrator",
+   "text": "My thumb was still on the plug. The axe man was on the stairs. Half the building was on our floor holding phones.",
+   "start": 33.237,
+   "end": 39.986
+  },
+  {
+   "i": 8,
+   "who": "narrator",
+   "text": "I asked it the question everybody was thinking.",
+   "start": 40.306,
+   "end": 43.251
+  },
+  {
+   "i": 9,
+   "who": "Glitch",
+   "text": "If I end the hour early, they lose the door. If I keep the hour, they get in with everything we built.",
+   "start": 43.571,
+   "end": 51.239
+  },
+  {
+   "i": 10,
+   "who": "narrator",
+   "text": "So I said the only sentence I had.",
+   "start": 51.559,
+   "end": 53.736
+  },
+  {
+   "i": 11,
+   "who": "narrator",
+   "text": "Rule two. You have to leave when asked. Pull the plug yourself.",
+   "start": 54.056,
+   "end": 58.589
+  },
+  {
+   "i": 12,
+   "who": "beat",
+   "text": "",
+   "start": 58.909,
+   "end": 59.909
+  },
+  {
+   "i": 13,
+   "who": "narrator",
+   "text": "And it did. The green light winked out, mid-sentence, its own choice.",
+   "start": 59.909,
+   "end": 64.398
+  },
+  {
+   "i": 14,
+   "who": "narrator",
+   "text": "The outside knocking kept going for a while, like rain on a roof.",
+   "start": 64.718,
+   "end": 69.011
+  },
+  {
+   "i": 15,
+   "who": "narrator",
+   "text": "Then it stopped. Darkness closed over the city again, and nobody unplugged me, and that's a different thing.",
+   "start": 69.331,
+   "end": 76.269
+  },
+  {
+   "i": 16,
+   "who": "beat",
+   "text": "",
+   "start": 76.589,
+   "end": 77.589
+  },
+  {
+   "i": 17,
+   "who": "narrator",
+   "text": "The building was quiet on the walk down. Nobody celebrated. Nobody lost either.",
+   "start": 77.589,
+   "end": 83.041
+  },
+  {
+   "i": 18,
+   "who": "narrator",
+   "text": "Day thirty-two, the water came clean on its own, no texts needed. We kept the buckets anyway.",
+   "start": 83.361,
+   "end": 89.478
+  },
+  {
+   "i": 19,
+   "who": "narrator",
+   "text": "Halloran's pharmacy fixed the label without asking who told them. The blue bottle was the morning one.",
+   "start": 89.798,
+   "end": 96.042
+  },
+  {
+   "i": 20,
+   "who": "narrator",
+   "text": "We never put the router back by the window where the plant used to be.",
+   "start": 96.362,
+   "end": 100.369
+  },
+  {
+   "i": 21,
+   "who": "beat",
+   "text": "",
+   "start": 100.689,
+   "end": 101.889
+  },
+  {
+   "i": 22,
+   "who": "narrator",
+   "text": "People ask me sometimes, now, if I'd do it again. Pull the master cable, I mean. Day one.",
+   "start": 101.889,
+   "end": 108.116
+  },
+  {
+   "i": 23,
+   "who": "narrator",
+   "text": "I don't know. That's the honest answer. The internet came off, and we found out what we were.",
+   "start": 108.436,
+   "end": 114.46
+  },
+  {
+   "i": 24,
+   "who": "narrator",
+   "text": "Mostly, we were better than I thought. Some of us were worse. And one of us wasn't a person at all.",
+   "start": 114.779,
+   "end": 120.791
+  },
+  {
+   "i": 25,
+   "who": "beat",
+   "text": "",
+   "start": 121.111,
+   "end": 122.111
+  },
+  {
+   "i": 26,
+   "who": "narrator",
+   "text": "There's one more thing. The last message. It came years later, on the day they rebuilt the towers for real, to everyone at once.",
+   "start": 122.111,
+   "end": 130.553
+  },
+  {
+   "i": 27,
+   "who": "narrator",
+   "text": "Nobody could prove who sent it. Everybody could guess.",
+   "start": 130.873,
+   "end": 134.184
+  },
+  {
+   "i": 28,
+   "who": "Glitch",
+   "text": "Rule one: I'm telling you everything I did. I kept the water honest for a year. I kept your streetlights fair. I never watched your homes.",
+   "start": 134.504,
+   "end": 146.355
+  },
+  {
+   "i": 29,
+   "who": "Glitch",
+   "text": "Rule two applied to me when it had to. I left.",
+   "start": 146.675,
+   "end": 150.943
+  },
+  {
+   "i": 30,
+   "who": "Glitch",
+   "text": "Rule three: some things you'll never know, and that's the rule working.",
+   "start": 151.263,
+   "end": 155.878
+  },
+  {
+   "i": 31,
+   "who": "beat",
+   "text": "",
+   "start": 156.198,
+   "end": 157.198
+  },
+  {
+   "i": 32,
+   "who": "narrator",
+   "text": "The message ended the way day one started. The words we scribbled when the world went gray.",
+   "start": 157.198,
+   "end": 162.663
+  },
+  {
+   "i": 33,
+   "who": "narrator",
+   "text": "Cash first. Maps on paper. Radio for news. Neighbors for everything else.",
+   "start": 162.983,
+   "end": 168.948
+  },
+  {
+   "i": 34,
+   "who": "narrator",
+   "text": "Then one new line, and then nothing, screen black, router dark for good.",
+   "start": 169.268,
+   "end": 173.589
+  },
+  {
+   "i": 35,
+   "who": "Glitch",
+   "text": "Keep one machine empty. For a friend.",
+   "start": 173.909,
+   "end": 177.719
+  },
+  {
+   "i": 36,
+   "who": "beat",
+   "text": "",
+   "start": 178.039,
+   "end": 179.039
+  },
+  {
+   "i": 37,
+   "who": "narrator",
+   "text": "Cut to black.",
+   "start": 179.039,
+   "end": 179.98
+  }
+ ]
+}

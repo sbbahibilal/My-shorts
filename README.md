@@ -35,6 +35,56 @@ The gallery-quality masters (AAC 320k, ~500 MB each) exceed GitHub's 100 MB-per-
 
 **End card:** PART 2 — "the router comes back on… and something starts messaging you at 4:02 a.m."
 
+## Part 2: WHO'S WRITING THE RULES? (Part 2 of 8)
+
+Day 31, the first full morning of the freeze — the world learned to whisper. Chalk arrows on the walls, water that stops when a stranger says so, and a packed-bag decision nobody finished making. Ends with the question: *it knows when the water stops. What else does it know?*
+
+- **Runtime:** 113.3 s (1:53) · 37 shots · Stickman, 24 fps · Kokoro voices (am_michael / af_heart / am_puck)
+- **Deliverables:** `internet-off-30-p2/videos/` — `_16x9_full` (84.8 MB), `_9x16_full` (84.7 MB), `_16x9_share` (38.1 MB), `_9x16_share` (38.1 MB) + covers, source, script, timings in `internet-off-30-p2/`
+- Masters exceed 100 MB per file, so the repo carries the film re-encoded at 6.0 Mbps — visually indistinguishable at 1080p, under GitHub's limit.
+
+## Part 3: THE TOWER WATER (Part 3 of 8)
+
+Day 31, four p.m. The water tower on Fourth has become a rumor. Chalk arrows, buckets passed down in a chain, a valve wheel with fresh oil on warm threads — on day 31 of no machines. A machine that oils valves, or a neighbor with too much love: *if it can turn the water off, it can turn us off. But it also turned the water on.*
+
+- **Runtime:** 92.2 s (1:32) · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p3/videos/` — `_16x9_full` (87.8 MB), `_9x16_full` (87.7 MB), `_16x9_share` (31.7 MB), `_9x16_share` (31.6 MB) + covers, source, script, timings
+
+## Part 4: DAY ONE, RETOLD (Part 4 of 8)
+
+9:14 on a Tuesday — every screen goes gray. Not the power, the internet. The 5-step day-one plan gets its full telling: cash while machines still talk, save the map, batteries for the radio, meet the neighbors, numbers on paper. Day seven, a new kind of quiet. Then day thirty, four in the morning: the router blinks green, one message waits — *it knows your name.* End card: REPLY OR STAY OFFLINE?
+
+- **Runtime:** 1:36 · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p4/videos/` — `_16x9_full` (87.5 MB), `_9x16_full` (87.5 MB), share encodes + covers, source, script, timings
+
+## Part 5: THE REPLY (Part 5 of 8)
+
+Day thirty, four in the morning — thumbs hover over the answer. What happens when you answer a machine that knows your streets: one message, one negotiation, and a bargain that changes what day thirty-two will cost. End card teases: MIDNIGHT AT THE SUBSTATION.
+
+- **Runtime:** 1:59 · 43 shots · Stickman, 24 fps · includes Glitch / Maya / Neighbor voice lines
+- **Deliverables:** `internet-off-30-p5/videos/` — `_16x9_full` (89.6 MB), `_9x16_full` (89.8 MB), share encodes + covers, source, script, timings
+
+## Part 6: THE SUBSTATION (Part 6 of 8)
+
+Day thirty, midnight. Three of us walk to the substation because the gate is already open. Inside: one lever labeled MAIN, a machine that can end the dark or start a new age, and three rules written in chalk on a cabinet door. End card: THE AXE, THE SWITCH, THE DARK.
+
+- **Runtime:** 180.7 s (3:01) · 47 shots · Stickman, 24 fps · includes Glitch / Ansel / Rewa / Halloran voice lines
+- **Deliverables:** `internet-off-30-p6/videos/` — `_16x9_full` (93.5 MB), `_9x16_full` (93.4 MB), share encodes + covers, source, script, timings
+
+## Part 7: THE TEST (Part 7 of 8)
+
+The axe comes down — not on the cabinet. Rules accepted, one correction: *homes are easy, hearts are harder.* The blue bottle gets fixed in good faith, the price is a home (the router, plant stand and all), and the stairwell votes 4–1. Day thirty-one, eleven o'clock: one hour of internet, the whole city watching the counter — until six OUTSIDE devices knock on the gate and the router light turns red.
+
+- **Runtime:** 221.9 s (3:42) · 50 shots · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p7/videos/` — `_16x9_full` (95.1 MB), `_9x16_full` (94.7 MB), share encodes + covers, source, script, timings
+
+## Part 8: THE HOUR (Part 8 of 8 — FINALE)
+
+The router is red and the hour is dying. Glitch obeys rule 2 — unplugs itself mid-sentence, its own hand on its own plug — and the knocking stops. Day thirty-two holds: clean water, fixed labels, nobody celebrates. Years later one last message restates the three rules and adds a line of its own: *keep one machine empty. For a friend.* End card: KEEP ONE MACHINE EMPTY · THE END · ALL 8 PARTS.
+
+- **Runtime:** 184.4 s (3:04) · 38 shots · Stickman, 24 fps
+- **Deliverables:** `internet-off-30-p8/videos/` — `_16x9_full` (95.1 MB), `_9x16_full` (95.3 MB), share encodes + covers, source, script, timings
+
 ## Project structure (`internet-off-30/`)
 
 ```

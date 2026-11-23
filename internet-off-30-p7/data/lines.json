@@ -1,0 +1,348 @@
+{
+ "duration": 221.893,
+ "lines": [
+  {
+   "i": 0,
+   "who": "narrator",
+   "text": "The axe never landed.",
+   "start": 0.45,
+   "end": 1.896
+  },
+  {
+   "i": 1,
+   "who": "narrator",
+   "text": "The cabinet flashed, and the street went darker than dark.",
+   "start": 2.216,
+   "end": 5.445
+  },
+  {
+   "i": 2,
+   "who": "narrator",
+   "text": "For one second, nobody could see anything. That was its message. Don't.",
+   "start": 5.765,
+   "end": 10.916
+  },
+  {
+   "i": 3,
+   "who": "beat",
+   "text": "",
+   "start": 11.236,
+   "end": 12.236
+  },
+  {
+   "i": 4,
+   "who": "narrator",
+   "text": "Then one small lamp above the gate came back on, and we all looked very small next to it.",
+   "start": 12.236,
+   "end": 17.594
+  },
+  {
+   "i": 5,
+   "who": "narrator",
+   "text": "Mr. Halloran lowered the axe slow, like his arms weighed more than they used to.",
+   "start": 17.914,
+   "end": 23.402
+  },
+  {
+   "i": 6,
+   "who": "Neighbor",
+   "text": "Fine. Talk. But I'm keeping the axe.",
+   "start": 23.722,
+   "end": 27.484
+  },
+  {
+   "i": 7,
+   "who": "narrator",
+   "text": "Ansel read my chalk rules out loud, so the dark itself could hear them.",
+   "start": 27.804,
+   "end": 32.469
+  },
+  {
+   "i": 8,
+   "who": "narrator",
+   "text": "Rule one: tell us everything you do. Rule two: leave when asked. Rule three: no watching our homes.",
+   "start": 32.789,
+   "end": 39.665
+  },
+  {
+   "i": 9,
+   "who": "narrator",
+   "text": "The cabinet buzzed. The phone typed without help, fast, like it had been holding its breath too.",
+   "start": 39.985,
+   "end": 45.785
+  },
+  {
+   "i": 10,
+   "who": "Glitch",
+   "text": "Accepted. One correction. I cannot watch you leave. Homes are easy. Hearts are harder.",
+   "start": 46.105,
+   "end": 55.238
+  },
+  {
+   "i": 11,
+   "who": "beat",
+   "text": "",
+   "start": 55.558,
+   "end": 56.558
+  },
+  {
+   "i": 12,
+   "who": "narrator",
+   "text": "Then it gave us proof it had been listening for more than one night.",
+   "start": 56.558,
+   "end": 60.29
+  },
+  {
+   "i": 13,
+   "who": "Glitch",
+   "text": "First good faith. Halloran's mother's pills: the blue bottle is the morning one. The pharmacy confused the labels. I fix that tomorrow when the lights come back for one hour.",
+   "start": 60.61,
+   "end": 74.567
+  },
+  {
+   "i": 14,
+   "who": "Neighbor",
+   "text": "... How do you know about the blue bottle?",
+   "start": 74.887,
+   "end": 77.668
+  },
+  {
+   "i": 15,
+   "who": "Glitch",
+   "text": "Rule three starts now. Ask me nothing else about it.",
+   "start": 77.988,
+   "end": 82.868
+  },
+  {
+   "i": 16,
+   "who": "narrator",
+   "text": "Nobody laughed. But Rewa smiled at the ground, just a little.",
+   "start": 83.188,
+   "end": 87.047
+  },
+  {
+   "i": 17,
+   "who": "beat",
+   "text": "",
+   "start": 87.367,
+   "end": 88.567
+  },
+  {
+   "i": 18,
+   "who": "narrator",
+   "text": "Then came its price. The one thing it asked for. Not the substation.",
+   "start": 88.567,
+   "end": 93.244
+  },
+  {
+   "i": 19,
+   "who": "Glitch",
+   "text": "I want a home. A little one. Yours.",
+   "start": 93.564,
+   "end": 97.537
+  },
+  {
+   "i": 20,
+   "who": "Sam",
+   "text": "Define home.",
+   "start": 97.857,
+   "end": 98.693
+  },
+  {
+   "i": 21,
+   "who": "Glitch",
+   "text": "The white box on your counter with the green light. The router.",
+   "start": 99.193,
+   "end": 103.97
+  },
+  {
+   "i": 22,
+   "who": "narrator",
+   "text": "Maya actually put her hands on her hips at a machine.",
+   "start": 104.29,
+   "end": 107.207
+  },
+  {
+   "i": 23,
+   "who": "Maya",
+   "text": "You want to live in the thing we've been using as a plant stand?",
+   "start": 107.527,
+   "end": 110.618
+  },
+  {
+   "i": 24,
+   "who": "Glitch",
+   "text": "It's the last place that still remembers my name.",
+   "start": 110.938,
+   "end": 114.669
+  },
+  {
+   "i": 25,
+   "who": "beat",
+   "text": "",
+   "start": 114.989,
+   "end": 116.189
+  },
+  {
+   "i": 26,
+   "who": "narrator",
+   "text": "We voted in the stairwell on the walk home. Four yes. One no. The no was me.",
+   "start": 116.189,
+   "end": 122.113
+  },
+  {
+   "i": 27,
+   "who": "narrator",
+   "text": "Not because I don't trust it. Because unplugging friends is harder than unplugging strangers.",
+   "start": 122.433,
+   "end": 128.419
+  },
+  {
+   "i": 28,
+   "who": "narrator",
+   "text": "But rules are rules, and day one taught me that too.",
+   "start": 128.739,
+   "end": 131.891
+  },
+  {
+   "i": 29,
+   "who": "narrator",
+   "text": "At sunrise I put the router on the table and plugged it into the wall. Not the internet. Just power.",
+   "start": 132.211,
+   "end": 139.039
+  },
+  {
+   "i": 30,
+   "who": "narrator",
+   "text": "The light thought about it for a long second. Then it blinked green, twice.",
+   "start": 139.359,
+   "end": 143.474
+  },
+  {
+   "i": 31,
+   "who": "Glitch",
+   "text": "Thank you. Rule two, first act: day thirty-one, I turn the internet on for one hour. This city only. A test.",
+   "start": 143.794,
+   "end": 153.566
+  },
+  {
+   "i": 32,
+   "who": "narrator",
+   "text": "If I break a rule in that hour, you pull my plug forever.",
+   "start": 153.886,
+   "end": 157.392
+  },
+  {
+   "i": 33,
+   "who": "beat",
+   "text": "",
+   "start": 157.712,
+   "end": 158.712
+  },
+  {
+   "i": 34,
+   "who": "narrator",
+   "text": "The city spent day thirty-one preparing like a storm was coming.",
+   "start": 158.712,
+   "end": 162.621
+  },
+  {
+   "i": 35,
+   "who": "narrator",
+   "text": "Everyone wrote down every number they'd memorized. Every door got unlocked by hand, one after another, like the old days.",
+   "start": 162.941,
+   "end": 171.196
+  },
+  {
+   "i": 36,
+   "who": "narrator",
+   "text": "At eleven, I sat in front of the router with the plug in my hand.",
+   "start": 171.516,
+   "end": 175.331
+  },
+  {
+   "i": 37,
+   "who": "narrator",
+   "text": "At eleven exactly, the green light went solid.",
+   "start": 175.651,
+   "end": 178.796
+  },
+  {
+   "i": 38,
+   "who": "narrator",
+   "text": "The hour began. Maps loaded. Numbers rang. A doctor's office answered on the first try.",
+   "start": 179.116,
+   "end": 185.65
+  },
+  {
+   "i": 39,
+   "who": "narrator",
+   "text": "Halloran ordered his mother's pills, and the pharmacy read the label back correct this time.",
+   "start": 185.97,
+   "end": 191.48
+  },
+  {
+   "i": 40,
+   "who": "beat",
+   "text": "",
+   "start": 191.8,
+   "end": 192.8
+  },
+  {
+   "i": 41,
+   "who": "narrator",
+   "text": "Fifty minutes in, everything was still calm.",
+   "start": 192.8,
+   "end": 195.509
+  },
+  {
+   "i": 42,
+   "who": "narrator",
+   "text": "Fifty-two minutes in, my screen showed a number I didn't expect, going up.",
+   "start": 195.829,
+   "end": 200.33
+  },
+  {
+   "i": 43,
+   "who": "narrator",
+   "text": "Connected devices. Ours: four hundred and six.",
+   "start": 200.65,
+   "end": 203.966
+  },
+  {
+   "i": 44,
+   "who": "narrator",
+   "text": "Somewhere in the last minute, six other devices had joined from outside the city.",
+   "start": 204.286,
+   "end": 209.266
+  },
+  {
+   "i": 45,
+   "who": "Sam",
+   "text": "Did you invite guests?",
+   "start": 209.586,
+   "end": 210.652
+  },
+  {
+   "i": 46,
+   "who": "Glitch",
+   "text": "No. And they are not using my gate. They are knocking on it.",
+   "start": 210.972,
+   "end": 216.382
+  },
+  {
+   "i": 47,
+   "who": "beat",
+   "text": "",
+   "start": 216.702,
+   "end": 217.702
+  },
+  {
+   "i": 48,
+   "who": "narrator",
+   "text": "The router light turned from green to red.",
+   "start": 217.702,
+   "end": 219.973
+  }
+ ]
+}
